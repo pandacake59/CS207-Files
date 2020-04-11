@@ -7,7 +7,7 @@ This dice roller helps the user limit the amount of dice needed and helps save t
 
 The project is made with an Arduino Uno, and uses a 4x4 keypad as an input while using a LCD screen and speaker as an output.
 
-[Complete]
+![Complete](https://github.com/pandacake59/CS207-Files/blob/master/img/Complete.jpg)
 
 Repository Contents
 ===================
@@ -42,13 +42,13 @@ Build Instructions
 This will be the build guide in order to recreate the D&Dice Roller.
 
 The schematic shown below will help identify the wires and the connections needed from each input/output to the pins on the Arduino.
-[Project_schematic]
+![Project_schematic](https://github.com/pandacake59/CS207-Files/blob/master/img/Project_schematic.jpg)
 
 The breadboard diagram shown below will help give another view of the connections needed for the D&Dice Roller.
 ![CS207_BoardSchematic](https://github.com/pandacake59/CS207-Files/blob/master/img/CS207_BoardSchematic.png)
 
 The first step would be to solder (or some otherway of connecting) eight pins which will allow the keypad to be used as an input device. And then connecting the pins onto the digital ports from numbers 2~9.
-[Keypad]
+![Keypad](https://github.com/pandacake59/CS207-Files/blob/master/img/Speaker.jpg)
 
 Next would be connecting the I2C of the LCD screen to the Arduino board
 **GND -- GND**
@@ -56,14 +56,14 @@ Next would be connecting the I2C of the LCD screen to the Arduino board
 **SDA -- A4**
 **SCL -- A5**
 
-[LCD]
+![LCD](https://github.com/pandacake59/CS207-Files/blob/master/img/LCD.jpg)
 
 The last part will be creating the speaker amplification circuit and connecting it to digital pin 11.
 
 Optionally you can include a power supply to connect directly to the Arduino Uno board to allow for more mobility
 
 The completed build will look something like this
-[Speaker]
+![Speaker](https://github.com/pandacake59/CS207-Files/blob/master/img/Speaker.jpg)
 
 
 Usage
