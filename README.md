@@ -48,7 +48,7 @@ The breadboard diagram shown below will help give another view of the connection
 ![CS207_BoardSchematic](https://github.com/pandacake59/CS207-Files/blob/master/img/CS207_BoardSchematic.png)
 
 The first step would be to solder (or some otherway of connecting) eight pins which will allow the keypad to be used as an input device. And then connecting the pins onto the digital ports from numbers 2~9.
-![Keypad](https://github.com/pandacake59/CS207-Files/blob/master/img/Speaker.jpg)
+![Keypad](https://github.com/pandacake59/CS207-Files/blob/master/img/Keypad.jpg)
 
 Next would be connecting the I2C of the LCD screen to the Arduino board
 **GND -- GND**
