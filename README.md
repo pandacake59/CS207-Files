@@ -45,7 +45,7 @@ The schematic shown below will help identify the wires and the connections neede
 [Project_schematic]
 
 The breadboard diagram shown below will help give another view of the connections needed for the D&Dice Roller.
-![CS207_BoardSchematic]: https://github.com/pandacake59/CS207-Files/blob/master/img/CS207_BoardSchematic.png
+![CS207_BoardSchematic] (https://github.com/pandacake59/CS207-Files/blob/master/img/CS207_BoardSchematic.png)
 
 The first step would be to solder (or some otherway of connecting) eight pins which will allow the keypad to be used as an input device. And then connecting the pins onto the digital ports from numbers 2~9.
 [Keypad]
